@@ -5,8 +5,6 @@ Email Me 👉 ✉️ **aiarchitech.bikash.com** For Collaboration/Project or Any
 
 - 🔭 **I’m currently working on:** Web Development
 - 🌱 **I’m currently learning:** HTML, CSS, JavaScript, C 
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** aiarchitech.bikash@gmail.com
 - 😄 **Pronouns:** Bikash 
